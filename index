@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <table align=center width=750 height=80 style="background-color: red;">
+            <tr>
+                <td align=center style="font-size: 200%;">Hello World</td>
+            </tr>
+        </table>
+        <table align=center width=750 height=300 style="background-color: purple;"> ali
+            <tr>
+                <td style align=top style="border: 2px solid white">Hello World 2</td>
+            </tr>
+        </table>
+    <script>
+    </script>
+    <style>
+        body {
+            background-color: black;
+            font-family: Arial, sans-serif;
+            color: white;
+        }
+    </style>
+    </body>
+</html>-
