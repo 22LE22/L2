@@ -16,7 +16,10 @@ body {
 
 .navbarbutton {
     background-color: #555f75;
-    color: #7fc1dd;
     border-radius: 25px;
     margin: 25px;
+}
+
+.navbarbuttontext {
+    color: #7fc1dd;
 }
