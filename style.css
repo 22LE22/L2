@@ -30,8 +30,9 @@ body {
 
 .navbarbutton {
     border: none;
+    border-radius: 50px;
     background-color: #555f75;
-    color: #555f75;
+    color: #7fc1dd;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
