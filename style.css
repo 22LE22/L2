@@ -13,13 +13,6 @@ body {
     padding: 15px;
 }
 
-.navbarbutton {
-    background-color: #555f75;
-    border-radius: 25px;
-    padding: 15px;
-    margin: 25px;
-}
-
 .navbarbuttontext {
     color: #7fc1dd;
     padding: 25px;
@@ -35,7 +28,7 @@ body {
     font-weight: bold;
 }
 
-.button {
+.navbarbutton {
     border: none;
     background-color: #555f75;
     color: #555f75;
