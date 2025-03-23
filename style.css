@@ -17,8 +17,8 @@ body {
 .navbarbutton {
     background-color: #555f75;
     border-radius: 25px;
-    padding: 25px;
-    margin: 25px;
+    padding: 15px;
+    margin: 25px 50px;
 }
 
 .navbarbuttontext {
