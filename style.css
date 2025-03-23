@@ -4,7 +4,6 @@
 
 body {
     background-color: #24272f;
-    font-family: Arial, sans-serif;
     color: white;
 }
 
@@ -26,4 +25,13 @@ body {
     color: #7fc1dd;
     padding: 25px;
     margin: 25px;
+}
+
+.titlebar {
+    padding: auto;
+}
+
+.titlebartext {
+    margin: auto;
+    font-weight: bold;
 }
