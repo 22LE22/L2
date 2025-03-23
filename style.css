@@ -12,12 +12,13 @@ body {
     background-color: #353a45;
     border-radius: 25px;
     margin: 25px;
+    padding: 25px;
 }
 
 .navbarbutton {
     background-color: #555f75;
     border-radius: 25px;
-    margin: 25px;
+    padding: 25px;
 }
 
 .navbarbuttontext {
