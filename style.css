@@ -19,8 +19,11 @@ body {
     background-color: #555f75;
     border-radius: 25px;
     padding: 25px;
+    margin: 25px;
 }
 
 .navbarbuttontext {
     color: #7fc1dd;
+    padding: 25px;
+    margin: 25px;
 }
