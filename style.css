@@ -1,6 +1,12 @@
 body {
     background-color: #24272f;
-    border-radius: 25px;
     font-family: Arial, sans-serif;
     color: white;
+}
+
+#navbar {
+    background-color: #353a45;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 25px;
 }
