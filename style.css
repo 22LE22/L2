@@ -4,7 +4,7 @@ body {
     color: white;
 }
 
-#navbar {
+.navbar {
     background-color: #353a45;
     border-radius: 25px;
     padding: 25px;
