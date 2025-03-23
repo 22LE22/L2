@@ -1,3 +1,7 @@
+* {
+    font-family: Optimistic Text, -apple-system, ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
 body {
     background-color: #24272f;
     font-family: Arial, sans-serif;
@@ -7,6 +11,12 @@ body {
 .navbar {
     background-color: #353a45;
     border-radius: 25px;
-    padding: 25px;
+    margin: 25px;
+}
+
+.navbarbutton {
+    background-color: #555f75;
+    color: #7fc1dd;
+    border-radius: 25px;
     margin: 25px;
 }
