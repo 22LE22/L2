@@ -7,19 +7,16 @@ body {
     color: white;
 }
 
-.navbar {
+table.navbar {
     background-color: #353a45;
     border-radius: 50px;
     padding: 15px;
 }
 
-.titlebar {
-    padding: auto;
-}
-
-.titlebartext {
-    margin: auto;
-    font-weight: bold;
+table.maincontent {
+    background-color: #353a45;
+    border-radius: 50px;
+    padding: 15px;
 }
 
 a.navbarbutton {
@@ -37,5 +34,5 @@ a.navbarbutton {
 }
 
 a.navbarbutton:hover {
-    background-color: #6d7a95;
+    background-color: #7887a7;
 }
