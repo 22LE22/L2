@@ -13,12 +13,6 @@ body {
     padding: 15px;
 }
 
-.navbarbuttontext {
-    color: #7fc1dd;
-    padding: 25px;
-    margin: 25px;
-}
-
 .titlebar {
     padding: auto;
 }
@@ -40,4 +34,8 @@ a.navbarbutton {
     font-size: 20px;
     margin: 4px 2px;
     cursor: pointer;
+}
+
+a.navbarbutton:hover {
+    background-color: #6d7a95;
 }
