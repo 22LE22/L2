@@ -17,8 +17,9 @@ p.maincontent {
     background-color: #353a45;
     border-radius: 50px;
     padding: 15px;
-    width: 300px;
+    width: 500px;
     margin: auto;
+    margin-top: 25px;
 }
 
 a.navbarbutton {
