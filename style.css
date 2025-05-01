@@ -13,13 +13,6 @@ table.navbar {
     padding: 15px;
 }
 
-.maincontent {
-    background-color: #555f75;
-    border-radius: 50px;
-    padding: 15px;
-    width: 600px;
-}
-
 a.navbarbutton {
     border: none;
     border-radius: 50px;
